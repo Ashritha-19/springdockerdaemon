@@ -10,7 +10,7 @@ public class DockerDemo {
         @GetMapping(value = "/docker")
     public String hello(){
 
-        System.out.println("ADS is my fav brother");
+        System.out.println("ashri");
 
         return "krish";
 
